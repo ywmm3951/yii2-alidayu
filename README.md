@@ -27,6 +27,7 @@ Usage
 
 配置文件添加组件:
 
+```
 'components' => [
     'alidayu' => [
         'class' => 'ywm\alidayu\SendCaptcha',
@@ -36,8 +37,11 @@ Usage
         'templateCode' => 'xxx', // 短信模板ID
     ],
 ],
+```
 
 调用:
+
+```
 <?php
 use Yii;
 /**
@@ -45,3 +49,4 @@ use Yii;
  * @return boolean true|false
  */
 Yii::$app->alidayu->sendSMS($mobile, $content);
+```
