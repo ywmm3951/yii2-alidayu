@@ -1,0 +1,21 @@
+{
+    "name": "ywm/yii2-alidayu",
+    "description": "alidayu for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "ywm",
+            "email": "yuanweimin@icloud.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ywm\\alidayu\\": ""
+        }
+    }
+}
