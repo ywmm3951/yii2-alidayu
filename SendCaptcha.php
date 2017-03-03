@@ -3,7 +3,7 @@
  * 发送验证码组件
  * @author ywm 
  */
-namespace ywm\alidayu;
+namespace ywmm3951\alidayu;
 
 use Yii;
 use yii\base\Component;

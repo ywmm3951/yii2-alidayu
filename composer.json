@@ -1,5 +1,5 @@
 {
-    "name": "ywm/yii2-alidayu",
+    "name": "ywmm3951/yii2-alidayu",
     "description": "alidayu for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ywm\\alidayu\\": ""
+            "ywmm3951\\alidayu\\": ""
         }
     }
 }

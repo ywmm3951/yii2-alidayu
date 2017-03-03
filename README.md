@@ -30,7 +30,7 @@ Usage
 ```
 'components' => [
     'alidayu' => [
-        'class' => 'ywm\alidayu\SendCaptcha',
+        'class' => 'ywmm3951\alidayu\SendCaptcha',
         'appkey' => 'xxx', // 阿里大于 appkey
         'secretKey' => 'xxx', // 阿里大于 secretKey
         'signName' => 'xxx', // 短信签名
