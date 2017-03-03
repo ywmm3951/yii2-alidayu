@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist ywm/yii2-alidayu "*"
+php composer.phar require ywmm3951/yii2-alidayu "dev-master"
 ```
 
 or add
 
 ```
-"ywm/yii2-alidayu": "*"
+"ywmm3951/yii2-alidayu": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
